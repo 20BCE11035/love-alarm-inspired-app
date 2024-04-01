@@ -24,4 +24,4 @@ Demo : [Youtube Video](https://youtube.com/shorts/rV7oue5fnUo)
 - AVFoundation
 
 ### Credit
-- [Anant Kumar] as Developer 
+- [Anant Kumar or Muhammad Rezky Sulihin] as Developer 
